@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_libraryinfor_libraryinfos",
+  "info": {
+    "displayName": "libraryinfo"
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    },
+    "days": {
+      "type": "string"
+    }
+  }
+}
