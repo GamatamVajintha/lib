@@ -31,6 +31,9 @@
       "relation": "oneToMany",
       "target": "api::section.section",
       "mappedBy": "library"
+    },
+    "Display": {
+      "type": "richtext"
     }
   }
 }
